@@ -1,0 +1,18 @@
+{
+  "chaves_validas": [
+    "AUTO-MESSENGER-ADMIN-001",
+    "AUTO-MESSENGER-USER-002"
+  ],
+  "usuarios": {
+    "admin": {
+      "chave": "AUTO-MESSENGER-ADMIN-001",
+      "nome": "Administrador",
+      "validade": "2024-12-31"
+    },
+    "usuario1": {
+      "chave": "AUTO-MESSENGER-USER-002", 
+      "nome": "Usuário Teste",
+      "validade": "2024-12-31"
+    }
+  }
+}
